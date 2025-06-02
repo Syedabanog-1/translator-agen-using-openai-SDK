@@ -66,7 +66,7 @@ def main():
     input_text = st.text_area("Enter text to translate", height=150)
 
     languages = [
-        "English", "Spanish", "French", "German", "Chinese", "Japanese", "Russian",
+        "English", "Spanish", "Urdu", "French", "German", "Chinese", "Japanese", "Russian",
         "Arabic", "Hindi", "Portuguese", "Bengali", "Korean", "Italian", "Dutch", "Turkish",
         "Swedish", "Vietnamese", "Polish", "Thai", "Persian", "Indonesian"
     ]
